@@ -59,7 +59,7 @@ Before installing and running the project locally, ensure that you have the foll
 ## Usage
 1. **Navigate to the project directory:**
    ```bash
-   [cd agentabu](http://localhost/agentabu)
+   http://localhost/agentabu
 
 ## Features
 
