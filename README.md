@@ -15,7 +15,6 @@
 - [Technology Overview](#technology-overview)
   - [Front End](#front-end)
 - [Live Demo](#live-demo)
-- [Contributing](#contributing)
 
 ## Project Structure
 
