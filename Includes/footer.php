@@ -41,9 +41,72 @@
         <!-- Footer Bottom Section -->
         <div class="items-center border-t justify-between mt-8 sm:flex">
             <div class="mt-4 sm:mt-0">
-                <!-- Additional content can go here -->
+                &copy; 2024 MELO All rights reserved.
+            </div>
+            <div class="mt-6 sm:mt-0">
+                <ul class="flex items-center mt-2 space-x-4">
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="https://www.facebook.com/melvin.kanu.140?mibextid=LQQJ4d" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-facebook-48.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                Facebook
+                            </span>
+                        </a>
+                    </li>
+
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="https://github.com/Melo034" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-github-30.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                GitHub
+                            </span>
+                        </a>
+                    </li>
+
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="https://www.instagram.com/melvinllllll" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-instagram-48.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                Instagram
+                            </span>
+                        </a>
+                    </li>
+
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="https://x.com/melsougly" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-twitterx-50.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                X
+                            </span>
+                        </a>
+                    </li>
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="https://wa.me/23234024642" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-whatsapp-48.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                Whatsapp
+                            </span>
+                        </a>
+                    </li>
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="https://www.linkedin.com/in/joseph-melvin-kanu-997b84210" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-linkedin-48.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                Linkedln
+                            </span>
+                        </a>
+                    </li>
+                    <li class="flex items-center justify-center w-10 h-10 wow animate__animated animate__zoomIn">
+                        <a href="javascript:void()" class="group flex justify-center rounded-md drop-shadow-xl from-gray-800  text-white font-semibold hover:translate-y-3 hover:rounded-[50%] transition-all duration-500 hover:from-[#331029] hover:to-[#310413]">
+                            <img src="./assets/icons8-discord-48.png" alt="" class="w-10 h-10">
+                            <span class="absolute opacity-0 group-hover:opacity-100 group-hover:text-gray-900 group-hover:text-xs group-hover:-translate-y-6 duration-700">
+                                Discord
+                            </span>
+                        </a>
+                    </li>
+                </ul>
             </div>
         </div>
     </footer>
 </div>
- <!-- ====== Footer Section Ends -->
+<!-- ====== Footer Section Ends -->
