@@ -2,17 +2,18 @@
 <html lang="en">
 
 <head>
-  <!-- ====== Head Section Start -->
+  <!-- ====== Head Section Start ====== -->
   <?php include 'Includes/header.php'; ?>
-  <!-- ====== Head Section Ends -->
+  <!-- ====== Head Section Ends ====== -->
 </head>
 
 <body class="bg-gradient-to-r from-teal-400 to-gray-800">
   <section>
-    <!----Navbar---->
+    <!-- ====== Navbar Start ====== -->
     <?php include 'Includes/navbar.php'; ?>
-    <!----End Navbar---->
-    <!----Hero Section--->
+    <!-- ====== Navbar End ====== -->
+
+    <!-- ====== Hero Section Start ====== -->
     <div class="container max-w-screen-xl px-6 py-16 mx-auto text-center">
       <div class="max-w-lg mx-auto">
         <h1 class="text-3xl font-semibold text-white lg:text-4xl wow animate__animated animate__zoomIn">Revolutionize your Real Estate Experience in Sierra Leone with Agent Abu</h1>
@@ -21,6 +22,7 @@
           Explore Properties Now
         </button>
       </div>
+      <!-- ====== Carousel Start ====== -->
       <div class="flex justify-center mt-10">
         <div id="default-carousel" class="relative w-full max-w-screen-lg" data-carousel="slide">
           <!-- Carousel wrapper -->
@@ -73,6 +75,7 @@
           </button>
         </div>
       </div>
+      <!-- ====== Carousel End ====== -->
     </div>
   </section>
   <!----End Hero Section--->
@@ -521,6 +524,9 @@
   </button>
   <!-- ====== Top Button Section Ends -->
   <!-- ====== Script Section Start -->
+  <script>
+     new WOW().init();
+ </script>
   <?php include 'Includes/script.php'; ?>
   <!-- ====== Script Section Ends -->
 </body>
