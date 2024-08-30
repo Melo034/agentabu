@@ -1,8 +1,11 @@
 <!-- ====== Script Section Start ====== -->
-
 <!-- WOW.js for Reveal Animations -->
 <script src="../Js/wow.min.js"></script>
-
+<!-- jQuery for DOM Manipulation -->
+<script>
+     new WOW().init();
+ </script>
+ <!--end--->
 <!-- Loader Script -->
 <script>
     window.addEventListener('load', function() {

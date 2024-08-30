@@ -524,9 +524,6 @@
   </button>
   <!-- ====== Top Button Section Ends -->
   <!-- ====== Script Section Start -->
-  <script>
-     new WOW().init();
- </script>
   <?php include 'Includes/script.php'; ?>
   <!-- ====== Script Section Ends -->
 </body>
