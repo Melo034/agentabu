@@ -53,8 +53,8 @@ Before installing and running the project locally, ensure that you have the foll
    cd agentabu
 
 3. **Set up your local server:**
-- **If using Laragon, place the project folder in the www directory.
-- **Start the server.
+- If using Laragon, place the project folder in the www directory.
+- Start the server.
 
 ## Usage
 1. **Navigate to the project directory:**
