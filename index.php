@@ -45,7 +45,7 @@
             </div>
             <!-- Item 5 -->
             <div class="hidden duration-700 ease-in-out" data-carousel-item>
-              <img src="./assets/group.jpg" class="object-cover w-full h-full rounded-xl wow animate__animated animate__zoomIn" alt="...">
+              <img src="./assets/groUp.jpg" class="object-cover w-full h-full rounded-xl wow animate__animated animate__zoomIn" alt="...">
             </div>
           </div>
           <!-- Slider indicators -->
@@ -57,16 +57,16 @@
             <button type="button" class="w-3 h-3 rounded-full" aria-current="false" aria-label="Slide 5" data-carousel-slide-to="4"></button>
           </div>
           <!-- Slider controls -->
-          <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-prev>
-            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 group-hover:bg-white/50">
+          <button type="button" class="absolute top-0 left-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer groUp focus:outline-none" data-carousel-prev>
+            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 groUp-hover:bg-white/50">
               <svg class="w-4 h-4 text-rose-600 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M5 1 1 5l4 4" />
               </svg>
               <span class="sr-only">Previous</span>
             </span>
           </button>
-          <button type="button" class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer group focus:outline-none" data-carousel-next>
-            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 group-hover:bg-white/50">
+          <button type="button" class="absolute top-0 right-0 z-30 flex items-center justify-center h-full px-4 cursor-pointer groUp focus:outline-none" data-carousel-next>
+            <span class="inline-flex items-center justify-center w-10 h-10 rounded-full bg-white/30 groUp-hover:bg-white/50">
               <svg class="w-4 h-4 text-rose-600 rtl:rotate-180" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 6 10">
                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m1 9 4-4-4-4" />
               </svg>
@@ -126,7 +126,7 @@
       <div class="-mx-4 flex flex-wrap">
         <div class="w-full px-4 md:w-1/2 lg:w-1/3">
           <div
-            class="mb-9 h-96 rounded-[20px] p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUpUp">
+            class="mb-9 h-96 rounded-[20px] p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUp">
             <div
               class=" mb-8 flex h-[60px] w-[70px] items-center justify-center rounded-2xl">
               <img class="" src="./assets/transaction.png" alt="">
@@ -143,7 +143,7 @@
         </div>
         <div class="w-full px-4 md:w-1/2 lg:w-1/3">
           <div
-            class="mb-9 h-96 max-w-full rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUpUp">
+            class="mb-9 h-96 max-w-full rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUp">
             <div
               class=" mb-8 flex h-[60px] w-[70px] items-center justify-center rounded-2xl">
               <img src="./assets/contract.png" alt="">
@@ -160,7 +160,7 @@
         </div>
         <div class="w-full px-4 md:w-1/2 lg:w-1/3">
           <div
-            class="mb-9 h-96 rounded-[20px] p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUpUp">
+            class="mb-9 h-96 rounded-[20px] p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUp">
             <div
               class=" mb-8 flex h-[60px] w-[70px] items-center justify-center rounded-2xl">
               <img src="./assets/house.png" alt="">
@@ -177,7 +177,7 @@
         </div>
         <div class="w-full px-4 md:w-1/2 lg:w-1/3">
           <div
-            class="mb-9 h-96 rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUpUp">
+            class="mb-9 h-96 rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUp">
             <div
               class=" mb-8 flex h-[60px] w-[70px] items-center justify-center rounded-2xl">
               <img src="./assets/payment.png" alt="">
@@ -186,20 +186,20 @@
               Diverse Payment Options
             </h4>
             <p class="text-white leading-normal ">
-              Pay with ease using traditional methods or cryptocurrencies. Our platform supports multiple
+              Pay with ease using traditional methods or cryptocurrencies. Our platform sUpports multiple
               payment gateways, ensuring flexibility for both local and international buyers.
             </p>
           </div>
         </div>
         <div class="w-full px-4 md:w-1/2 lg:w-1/3">
           <div
-            class="mb-9 h-96 rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUpUp">
+            class="mb-9 h-96 rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUp">
             <div
               class=" mb-8 flex h-[60px] w-[70px] items-center justify-center rounded-2xl">
               <img src="./assets/legal.png" alt="">
             </div>
             <h4 class="text-white mb-[14px] text-2xl font-semibold">
-              Legal and Documentation Support
+              Legal and Documentation SUpport
             </h4>
             <p class="text-white leading-normal ">
               Agent Abu simplifies the legal process by providing standardized templates for
@@ -209,7 +209,7 @@
         </div>
         <div class="w-full px-4 md:w-1/2 lg:w-1/3">
           <div
-            class="mb-9 h-96 rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUpUp">
+            class="mb-9 h-96 rounded-[20px]  p-6 shadow-2 hover:shadow-lg md:px-7 xl:px-10 bg-gradient-to-r from-teal-500 to-teal-700  wow animate__animated animate__fadeInUp">
             <div
               class=" mb-8 flex h-[60px] w-[70px] items-center justify-center rounded-2xl">
               <img src="./assets/login.png" alt="">
