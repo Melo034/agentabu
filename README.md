@@ -103,4 +103,4 @@ Before installing and running the project locally, ensure that you have the foll
 
 ## Live Demo
 
-You can also explore a live version of the project here: [AGENT ABU Live Demo](https://problemsolvingsl.com/agentabu/)
+You can also explore a live version of the project here: [AGENT ABU Live Demo](https://agentabu.ingmelo.com)
